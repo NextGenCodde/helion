@@ -258,7 +258,7 @@ nav .mainmenu li {
 /* section part  */
 .section1 {
     width: 100%;
-    height: 791px;
+    height: 100vh;
     background: #222127;
     text-align: center;
     display: flex;
